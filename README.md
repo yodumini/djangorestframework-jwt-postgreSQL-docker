@@ -1,4 +1,4 @@
-## djangorestframework-jwt-postgre-docker
+## API 簡單project
 
 ```bash
 # 執行
