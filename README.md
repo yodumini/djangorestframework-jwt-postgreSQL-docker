@@ -1,4 +1,10 @@
 ## API 簡單project
+| 工具   |  版本|
+|-------|:-----:|
+| Python   | 3.7  |
+| Django   | 3.2  |
+| Docker compose   | 3.5  |
+| postgreSQL   | docker lastest  |
 
 ```bash
 # 執行
